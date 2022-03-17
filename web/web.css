@@ -1,0 +1,32 @@
+*
+{
+
+}
+.column1of2
+{
+    float: left;
+    width: 750px;
+    margin: 10px;
+}
+.column2of2
+{
+    float: left;
+    width: 300px;
+    margin: 10px;
+}
+.column3of2,.column4of2,.column5of2
+{
+    float: left;
+    width: 200px;
+    margin: 10px;
+}
+.column6of2
+{
+    float: left;
+    width: 700px;
+    margin-top: 0px;     
+}
+div.siv
+{
+   
+}

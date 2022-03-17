@@ -1,0 +1,13 @@
+body{background-color: antiquewhite;}
+*{margin: 10px; padding: 10px; box-sizing: border-box;}
+p.lorem{background-color: green; 
+    width: 500px;}
+p.lorem{box-sizing: border-box;}
+a#anchor{display: block;  
+    color: brown;
+    background-color: aqua;
+}
+a#any{display: inline; 
+    color: brown;
+background-color: aqua;}
+a#any{display: flex;}

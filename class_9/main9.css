@@ -1,0 +1,41 @@
+*
+{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+svg.svg
+{
+    width: 30px;
+    height: 30px;
+    fill: whitesmoke;
+}
+img.image
+{
+    height: 8%;
+    width: 25%;
+    border-radius: 50%;
+}
+h1
+{
+    text-align:center;
+    text-transform: uppercase;
+}
+p{
+    color: black;
+    background-color: whitesmoke;
+    text-transform: capitalize;
+}
+div.nav-container
+{
+    background-color: brown;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+    top: 0%;
+    left: 0%;
+}

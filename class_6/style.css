@@ -1,0 +1,25 @@
+body
+{
+    background: ghostwhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero-header
+{
+    background: gold;
+    padding: 15px;
+}
+.hero-header h4
+{
+    font-size: larger;
+}
+
+.media 
+{
+    background: gray;
+    color: ghostwhite;
+    margin: 20px;
+    padding: 25px;
+    width: fit-content;
+
+}

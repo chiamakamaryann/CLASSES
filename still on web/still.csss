@@ -1,0 +1,20 @@
+*
+{
+
+}
+div#dots
+{
+    display: flex;
+    height: 700px;
+    width: 300px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+div#bass
+{
+    display: flex;
+    height: 700px;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
